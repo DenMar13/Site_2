@@ -368,4 +368,12 @@ footer
 	font-family: Arial, serif;
 	font-weight: 700;
 }
+.column_7 li:hover {
+	text-decoration: underline;
+}
+.column_6 a:hover {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
 
